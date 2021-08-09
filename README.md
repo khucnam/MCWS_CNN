@@ -1,6 +1,6 @@
-# MSPS_CNN
+# MCWS_CNN
 
-This is a repo for a paper titled "Using multi-scale pattern scanning with convolutional neural network for efficient prediction of ATP binding sites in transport proteins" which is under submission.
+This is a repo for a paper titled "Using multiple convolutional window scanning of convolutional neural network for an efficient prediction of ATP binding sites in transport proteins" which is under submission.
 
 
 Guide to use the repo
